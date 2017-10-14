@@ -74,7 +74,7 @@ void freeImage(image_desc *pdesc){
 */
 
 void main(){
-	printf("hello\n");
+	printf("Salut Charlie\n");
 	image_desc  Desc;
 	image_desc *pDesc; 
 	pDesc = &Desc;
